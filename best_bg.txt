@@ -1,2 +1,2 @@
-7wonders
-zero
+7wonders (1hour)
+zero (15hour)
