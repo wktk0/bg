@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 I played best game.
 ---
 7wonders (1hour)
+=======
+7wonders (1.5hour)
+>>>>>>> origin/master
 zero (15min)
 ロストレガシー(5-10min)
